@@ -1,18 +1,22 @@
+
 // ==UserScript==
 // @name         lowercase youtube titles
-// @namespace    https://violentmonkey.github.io
-// @version      1.0.1
 // @description  make all youtube video titles lowercase
-// @author       lucidus.
+// @version      1.0.1
+// @namespace    https://github.com/luda-things
+// @homepageURL  https://github.com/luda-things/useful-userscripts
+// @supportURL	 https://github.com/luda-things/useful-userscripts/issues
+// @author       luda.things
 // @match        *://www.youtube.com/*
 // @match        *://youtube.com/*
 // @match        *://m.youtube.com/*
 // @match        *://youtu.be/*
+// @icon         https://images.icon-icons.com/195/PNG/256/YouTube_23392.png
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
 
-// last updated: 2026-07-17
+// last updated: 2026-11-18
 
 (() => {
   'use strict';
