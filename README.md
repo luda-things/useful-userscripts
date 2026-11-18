@@ -1,4 +1,4 @@
-# productive-userscripts
+# useful-userscripts
 
 ## 📜 Scripts
 
